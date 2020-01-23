@@ -1,8 +1,8 @@
 <html>
   <head>
     <title>First Page</title>
-   </head>
-   <body>
+  </head>
+  <body>
       <p> On 1/23, I learned to type a paragraph of regular text, </p>
       <p><b> bold text, </b></p>
       <p><big> big text, </big></p>
@@ -13,5 +13,5 @@
       <p><sup> superscripted text </sup></p>
       <p><ins> inserted text </ins></p>
       <p> And finally, <del> deleted text </del></p>
-     </body>
+  </body>
 </html>
