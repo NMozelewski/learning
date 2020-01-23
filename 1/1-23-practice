@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>First Page</title>
+   </head>
+   <body>
+      <p> On 1/23, I learned to type a paragraph of regular text, </p>
+      <p><b> bold text, </b></p>
+      <p><big> big text, </big></p>
+      <p><i> italic text, ooh, la, la, </i></p>
+      <p><small> little itty, bitty text </small></p>
+      <p><strong> big, strong text </strong></p>
+      <p><sub> subscripted text </sub></p>
+      <p><sup> superscripted text </sup></p>
+      <p><ins> inserted text </ins></p>
+      <p> And finally, <del> deleted text </del></p>
+     </body>
+</html>
